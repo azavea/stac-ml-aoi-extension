@@ -10,7 +10,7 @@ Proposed
 
 ## Context
 
-Should each `ml-aoi` Item be able to bring int multiple labels?
+Should each `ml-aoi` Item be able to bring in multiple labels?
 This would be a useful feature for training multi-class classifiers.
 One can imagine having a label STAC item for buildings and separate STAC item for fields.
 STAC Items Links object is an array, so many label items could be linked to from a single `ml-aoi` STAC Item.
